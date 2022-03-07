@@ -1,0 +1,30 @@
+html
+{ scroll-behavior: smooth;
+   
+}
+body{
+    background:linear-gradient(#f8c9e1 0%,#eba8eb 100%) ;
+   text-align: center;
+}
+.back
+{
+width: 80px;
+height: 30px;
+background-color: #ffffff;
+font-size: 15px;
+float: left;
+border-radius: 20px;
+border-width: 3px;
+}
+.back:hover
+{
+    transform: scale(1.04);
+}
+p
+{
+font-size: 17px;
+font-family: serif;
+}
+h1{
+    font-size: 29px;
+}
